@@ -1,11 +1,12 @@
 # Exploring any relation between SST & PSAL in the Kuroshio gulf region 
 
+* add x/y labels for the snapshot map of te clusters distribution (see at the bottom) & rename the image file
+* lat/lon map of the most occuring cluster
+* snapshot basemap
+* bic to find optimal number of clusters (though obvious)
+* apply to the whole set (at the end only)
+
 In this work we attempt to look for any correlation between sea surface temperature (SST) and Salinity (PSAL) for the Kuroshio gulf region.
-
-![img](./figs/gulf_stream_01.gif)
-
-
-
 
 
 ## Procedure
@@ -32,7 +33,8 @@ Below are the three identified clusters:
 
 ![cluster3](figs/cluster3.png)
 
-![gulf_stream_01](figs/gulf_stream_01.gif)
+The following map shows a snapshot map of the distribution of the three clusters 
+![](./figs/sample_map_of_most_frequent_label.png)
 
 The following map shows the most frequent cluster/label (**0**)
 
